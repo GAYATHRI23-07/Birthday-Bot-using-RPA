@@ -1,0 +1,150 @@
+2026-04-02 10:35:49,252 - INFO - Starting Birthday Reminder Bot
+2026-04-02 10:35:49,436 - INFO - Checking for birthdays on 04-02
+2026-04-02 10:35:49,437 - INFO - Birthday match found for Alice (alice@example.com)
+2026-04-02 10:35:49,437 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 10:35:49,441 - INFO - Successfully processed birthday for Alice
+2026-04-02 10:35:49,441 - INFO - Bot finished run. Sent 1 notifications.
+2026-04-02 10:36:47,102 - INFO - Starting Birthday Reminder Bot
+2026-04-02 10:36:47,330 - INFO - Checking for birthdays on 04-02
+2026-04-02 10:36:47,330 - INFO - Birthday match found for Alice (alice@example.com)
+2026-04-02 10:36:47,330 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 10:36:47,344 - INFO - Successfully processed birthday for Alice
+2026-04-02 10:36:47,345 - INFO - Bot finished run. Sent 1 notifications.
+2026-04-02 10:45:28,344 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:45:28,909 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:45:53,300 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:45:53,324 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:46:11,723 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:46:11,734 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:54:21,787 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:54:21,818 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:54:29,038 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:54:29,079 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:56:27,505 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:56:27,569 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:56:42,879 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:56:42,920 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:56:58,590 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:56:58,617 - ERROR - Error reading Excel data: Missing column provided to 'parse_dates': 'DOB' (sheet: 0)
+2026-04-02 10:58:27,499 - INFO - Starting Web Request to process birthdays.
+2026-04-02 10:58:27,661 - INFO - Web: Birthday match found for Alice (alice@example.com)
+2026-04-02 10:58:27,661 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 10:58:27,662 - INFO - Web: Finished run. Sent 1 notifications.
+2026-04-02 11:00:06,013 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:00:06,797 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:00:06,798 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:06,798 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:08,976 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:00:09,014 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:00:09,015 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:09,015 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:10,374 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:00:10,404 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:00:10,404 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:10,405 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:11,371 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:00:11,409 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:00:11,409 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:11,409 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:12,706 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:00:12,738 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:00:12,739 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:00:12,739 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:05,364 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:05,386 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:05,386 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:05,386 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:07,125 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:07,150 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:07,150 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:07,150 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:09,359 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:09,380 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:09,381 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:09,381 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:10,231 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:10,266 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:10,266 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:10,266 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:30,767 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:30,786 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:30,786 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:30,787 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:32,949 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:32,979 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:32,980 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:32,981 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:33,314 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:33,333 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:33,334 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:33,334 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:33,530 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:33,559 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:33,560 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:33,560 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:34,237 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:34,288 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:34,288 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:34,289 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:35,120 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:35,152 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:35,153 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:35,153 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:57,268 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:01:57,290 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:01:57,290 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:01:57,290 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:02:10,197 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:02:10,224 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:02:10,224 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:02:10,224 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:02:11,239 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:02:11,318 - ERROR - Missing required columns in Excel file. Found: ['Name', 'Email', 'Birthday', 'Department', 'Phone'], Expected: ['Name', 'DOB', 'Email']
+2026-04-02 11:02:11,318 - ERROR - Error reading Excel data: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:02:11,319 - INFO - Web Error: Missing required columns. Ensure Name, DOB, and Email exist.
+2026-04-02 11:02:26,942 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:02:27,884 - INFO - Web: Birthday match found for Aishwarya Rajan (aishwarya@company.com)
+2026-04-02 11:02:27,884 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:02:27,888 - INFO - Web: Finished run. Sent 1 notifications.
+2026-04-02 11:02:57,090 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:02:57,118 - INFO - Web: Birthday match found for Aishwarya Rajan (aishwarya@company.com)
+2026-04-02 11:02:57,118 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:02:57,122 - INFO - Web: Finished run. Sent 1 notifications.
+2026-04-02 11:03:51,880 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:03:51,917 - INFO - Web: Birthday match found for Aishwarya Rajan (aishwarya@company.com)
+2026-04-02 11:03:51,918 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:03:51,922 - INFO - Web: Finished run. Sent 1 notifications.
+2026-04-02 11:04:50,480 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:04:50,527 - INFO - Web: Birthday match found for Aishwarya Rajan (aishwarya@company.com)
+2026-04-02 11:04:50,527 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:04:50,532 - INFO - Web: Finished run. Sent 1 notifications.
+2026-04-02 11:09:25,301 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:09:25,338 - INFO - Web: Birthday match found for Aishwarya Rajan (aishwarya@company.com)
+2026-04-02 11:09:25,338 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:09:25,339 - INFO - Web: Birthday match found for Ananya Krishnan (ananya@company.com)
+2026-04-02 11:09:25,340 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:09:25,341 - INFO - Web: Birthday match found for Praveen Anand (praveen@company.com)
+2026-04-02 11:09:25,341 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:09:25,342 - INFO - Web: Birthday match found for Yamini Chandran (yamini@company.com)
+2026-04-02 11:09:25,342 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:09:25,343 - INFO - Web: Finished run. Sent 4 notifications.
+2026-04-02 11:10:02,372 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:10:02,409 - INFO - Web: Birthday match found for Aishwarya Rajan (aishwarya@company.com)
+2026-04-02 11:10:02,409 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:02,411 - INFO - Web: Birthday match found for Ananya Krishnan (ananya@company.com)
+2026-04-02 11:10:02,411 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:02,414 - INFO - Web: Birthday match found for Praveen Anand (praveen@company.com)
+2026-04-02 11:10:02,414 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:02,415 - INFO - Web: Birthday match found for Yamini Chandran (yamini@company.com)
+2026-04-02 11:10:02,415 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:02,416 - INFO - Web: Finished run. Sent 4 notifications.
+2026-04-02 11:10:15,316 - INFO - Starting Web Request to process birthdays.
+2026-04-02 11:10:15,362 - INFO - Web: Birthday match found for Aishwarya Rajan (aishwarya@company.com)
+2026-04-02 11:10:15,363 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:15,366 - INFO - Web: Birthday match found for Ananya Krishnan (ananya@company.com)
+2026-04-02 11:10:15,366 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:15,370 - INFO - Web: Birthday match found for Praveen Anand (praveen@company.com)
+2026-04-02 11:10:15,371 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:15,373 - INFO - Web: Birthday match found for Yamini Chandran (yamini@company.com)
+2026-04-02 11:10:15,374 - ERROR - Skipping email: SENDER_EMAIL is not configured. Please configure email_sender.py.
+2026-04-02 11:10:15,374 - INFO - Web: Finished run. Sent 4 notifications.
